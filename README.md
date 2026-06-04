@@ -22,10 +22,12 @@ GW-LMC-Space/
 │   ├── Intrinsic_source_catalogs/
 │   ├── Original_lensing_parameters/
 │   ├── Lensed_gw_catalogs/
+│   ├── LISA.md
 ├── DECIGO/
 │   ├── Intrinsic_source_catalogs/
 │   ├── Original_lensing_parameters/
 │   ├── Lensed_gw_catalogs/
+│   ├── DECIGO.md
 └── README.md
 ```
 
@@ -47,11 +49,12 @@ More details can be found in the `.md` files within each directory.
 
 ## Version
 
-Current version: <<< v1.0 >>>
+Current version: <<< v2.0 >>>
 
 ### Changelog
 
 * v1.0: Full mock catalogs of lensed events.
+* v2.0: Modified the catalogs of DECIGO decetor, consider the confusion nosie into the calculation of SNR, make the calculation more reliable.
 
 ---
 
